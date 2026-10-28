@@ -52,7 +52,7 @@ def main():
         elif choice == "2":
             view_report()
         elif choice == "3":
-            print("Thank you for using Expense Tracker!")
+            print("THANK YOU FOR USING EXPENSE TRACKER!")
             break
         else:
             print("Invalid choice. Try again.")
