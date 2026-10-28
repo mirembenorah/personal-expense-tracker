@@ -75,7 +75,7 @@ def main():
             calculate_total()
 
         elif choice == "4":
-            print("Thank you for using the Expense Tracker!")
+            print("THANK YOU FOR USING THE EXPENSE TRACKER!")
             break
 
         else:
